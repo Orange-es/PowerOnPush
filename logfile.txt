@@ -1,0 +1,901 @@
+[09-2024-10 10:32:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 7475e1f5-1135-4989-b26f-d6030a8da767.jpg
+{'code': 0, 'data': {'pushid': 16498, 'meta': {'android': {'messageIds': {'messageId': ['10392825179539584']}, 'requestId': '00BFACBF-DA31-59F8-8331-E235D691ABFE', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 10:32:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 10:34:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 d41fda63-05e0-4708-8ef4-69d395585c3e.jpg
+{'code': 0, 'data': {'pushid': 16501, 'meta': {'android': {'messageIds': {'messageId': ['10392833989155968']}, 'requestId': '91AF335C-EE1F-514D-8D86-BE95B7FACDD2', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 10:34:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 10:39:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 20760051-b884-4508-bd3e-04fde20e6e7b.jpg
+{'code': 0, 'data': {'pushid': 16509, 'meta': {'android': {'messageIds': {'messageId': ['10392855540728960']}, 'requestId': '8DE22ED4-6B39-52BE-8FBB-9F4FDE98F355', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 10:39:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 10:46:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 e5610eee-5e0f-4f05-867a-d83d2944fe31.jpg
+{'code': 0, 'data': {'pushid': 16522, 'meta': {'android': {'messageIds': {'messageId': ['10392881401561728']}, 'requestId': '4292A722-B798-5EA2-BD34-3437F59094C9', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 10:46:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 10:47:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 4467ee23-3795-4ae4-a4b8-196129bfd6de.jpg
+{'code': 0, 'data': {'pushid': 16527, 'meta': {'android': {'messageIds': {'messageId': ['10392885840913024']}, 'requestId': '18295CE0-9201-576D-B635-15B4D04D0088', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 10:47:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 10:51:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 55bde42c-8372-4795-8e34-2abac7c650f5.jpg
+{'code': 0, 'data': {'pushid': 16539, 'meta': {'android': {'messageIds': {'messageId': ['10392901683716352']}, 'requestId': '7BEDA4A2-F048-5859-8339-9A0E3EB19F64', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 10:51:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 10:54:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 b8a0f3ee-903e-41d5-b7b1-b7df9e8073ab.jpg
+{'code': 0, 'data': {'pushid': 16546, 'meta': {'android': {'messageIds': {'messageId': ['10392913210976256']}, 'requestId': 'E9A8C062-7157-54DB-82B5-6A30B6DFE73C', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 10:54:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 10:58:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 b29bdd82-fd07-41ad-a419-c416d58b0314.jpg
+{'code': 0, 'data': {'pushid': 16558, 'meta': {'android': {'messageIds': {'messageId': ['10392929981448448']}, 'requestId': '66BE307B-4979-515B-B9AF-612EB0050698', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 10:58:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 11:32:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 a5e024e0-02d6-4ce5-8cf1-6dd218f81427.jpg
+Traceback (most recent call last):
+  File "D:\Python311\Lib\site-packages\urllib3\connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "D:\Python311\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "D:\Python311\Lib\site-packages\urllib3\connection.py", line 693, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\connection.py", line 208, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x000002167E28E3D0>, 'Connection to sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com timed out. (connect timeout=None)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Python311\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com', port=443): Max retries exceeded with url: /send?title=%E5%BC%80%E6%9C%BA%E3%80%81%E8%A7%A3%E9%94%81%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F&desp=%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80%EF%BC%9Aa5e024e0-02d6-4ce5-8cf1-6dd218f81427.jpg&tags=%E5%BC%80%E6%9C%BA%E3%80%81%E8%A7%A3%E9%94%81%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002167E28E3D0>, 'Connection to sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com timed out. (connect timeout=None)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\Pycharm\PythonProject\compareData\PowerOnPush\onPush.py", line 73, in <module>
+    pushMes(pushTitle,pushDesp)
+  File "G:\Pycharm\PythonProject\compareData\PowerOnPush\onPush.py", line 59, in pushMes
+    response = requests.get(url, params=params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\adapters.py", line 688, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com', port=443): Max retries exceeded with url: /send?title=%E5%BC%80%E6%9C%BA%E3%80%81%E8%A7%A3%E9%94%81%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F&desp=%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80%EF%BC%9Aa5e024e0-02d6-4ce5-8cf1-6dd218f81427.jpg&tags=%E5%BC%80%E6%9C%BA%E3%80%81%E8%A7%A3%E9%94%81%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000002167E28E3D0>, 'Connection to sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com timed out. (connect timeout=None)'))
+[09-2024-10 11:33:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 12:25:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 2aa2bcc2-642a-4278-b205-347ab302f16c.jpg
+{'code': 0, 'data': {'pushid': 16703, 'meta': {'android': {'messageIds': {'messageId': ['10393271221634432']}, 'requestId': 'ADECFDED-C2FD-51D8-91B4-EF9EBE3566A5', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 12:25:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 13:11:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 c9edae33-f952-4bcd-8efc-f0c402993f30.jpg
+{'code': 0, 'data': {'pushid': 16797, 'meta': {'android': {'messageIds': {'messageId': ['10393455339900800']}, 'requestId': '70596C94-2CCD-5F25-B079-D6077D6FD4E0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 13:12:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 13:48:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 4f607777-c6e2-467b-813a-2060ea810d31.jpg
+{'code': 0, 'data': {'pushid': 16931, 'meta': {'android': {'messageIds': {'messageId': ['10393598587963520']}, 'requestId': '0BCE7CC8-804B-5600-AE52-66C18DB85732', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 13:48:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 14:14:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 8641056b-1f25-4980-8c38-b74cb6264c44.jpg
+{'code': 0, 'data': {'pushid': 16967, 'meta': {'android': {'messageIds': {'messageId': ['10393701681729408']}, 'requestId': 'DB3DAD0B-850A-55FE-9980-9BD5F34995F9', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 14:15:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 16:20:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+Traceback (most recent call last):
+  File "G:\Pycharm\PythonProject\compareData\PowerOnPush\onPush.py", line 89, in <module>
+    imgPath = capture_image_from_camera()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Pycharm\PythonProject\compareData\PowerOnPush\onPush.py", line 28, in capture_image_from_camera
+    current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'
+[09-2024-10 16:20:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 16:22:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+Traceback (most recent call last):
+  File "G:\Pycharm\PythonProject\compareData\PowerOnPush\onPush.py", line 89, in <module>
+    imgPath = capture_image_from_camera()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Pycharm\PythonProject\compareData\PowerOnPush\onPush.py", line 28, in capture_image_from_camera
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                   ^^^^^^^^^^^^
+AttributeError: module 'datetime' has no attribute 'now'
+[09-2024-10 16:22:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 16:31:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 871548d4-d55d-4592-b2f9-82fdaf0dff95.jpg
+{'code': 0, 'data': {'pushid': 17228, 'meta': {'android': {'messageIds': {'messageId': ['10394239640933632']}, 'requestId': 'C169E670-C859-5159-82BD-F6510D186DB3', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 16:31:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 16:34:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 39df0eed-bebf-4c83-8785-241f86a15628.jpg
+{'code': 0, 'data': {'pushid': 17230, 'meta': {'android': {'messageIds': {'messageId': ['10394248603635456']}, 'requestId': '4988E8D1-97CC-53AD-8F7B-0F734CD6F3EC', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 16:34:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 16:52:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 4d13904d-4b2b-4f46-9eab-62c61eae14d5.jpg
+{'code': 0, 'data': {'pushid': 17261, 'meta': {'android': {'messageIds': {'messageId': ['10394319504619264']}, 'requestId': 'CC385186-7313-52C7-80FD-26AC4FCF10EB', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 16:52:] 绋嬪簭杩愯瀹屾瘯銆?  
+[09-2024-10 17:35:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 c387e44f-48b6-48d3-90d6-7425576f7f68.jpg
+{'code': 0, 'data': {'pushid': 17334, 'meta': {'android': {'messageIds': {'messageId': ['10394489053061120']}, 'requestId': 'D5EA8AE8-CC07-57F6-9710-D9C029099275', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[09-2024-10 17:35:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 08:29:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 6deeeb9a-382b-4840-b01b-bcbda84a4eb7.jpg
+{'code': 0, 'data': {'pushid': 18372, 'meta': {'android': {'messageIds': {'messageId': ['10398004632423936']}, 'requestId': '059A863A-114B-5196-9382-1D2E167AEAF8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[10-2024-10 08:29:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 10:13:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 e22f82af-7a89-4f30-bdaf-e58ae5c7a2a8.jpg
+{'code': 0, 'data': {'pushid': 18589, 'meta': {'android': {'messageIds': {'messageId': ['10398414023692416']}, 'requestId': 'CB086044-D5F3-5124-A9CD-F967061011D0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[10-2024-10 10:13:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 11:26:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 a7b2604f-ac44-4bbd-b42c-d5c249a0afae.jpg
+{'code': 0, 'data': {'pushid': 18699, 'meta': {'android': {'messageIds': {'messageId': ['10398702109197184']}, 'requestId': 'CECA02ED-E3B1-5DED-9D76-7E71E40EB148', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[10-2024-10 11:26:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 11:39:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 f604bffc-9a91-418b-b727-eee65a6df95f.jpg
+{'code': 0, 'data': {'pushid': 18724, 'meta': {'android': {'messageIds': {'messageId': ['10398753723585536']}, 'requestId': 'E7D3B418-1CD1-5BB6-A97F-4A239C6B3102', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[10-2024-10 11:39:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 13:38:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 76b018ed-5ecb-483b-a272-c3dc402b2f32.jpg
+{'code': 0, 'data': {'pushid': 18891, 'meta': {'android': {'messageIds': {'messageId': ['10399220283159424']}, 'requestId': '73FB0C01-28BF-55E0-8135-C1A552DE7CA0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[10-2024-10 13:38:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 15:36:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 c6576a9d-299b-4d12-a5e0-fdb7e803f0f0.jpg
+Traceback (most recent call last):
+  File "D:\Python311\Lib\site-packages\urllib3\connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11002] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "D:\Python311\Lib\site-packages\urllib3\connection.py", line 693, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\connection.py", line 206, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x000001C31473C910>: Failed to resolve 'sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com' ([Errno 11002] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Python311\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com', port=443): Max retries exceeded with url: /send?title=%E5%BC%80%E6%9C%BA%E3%80%81%E8%A7%A3%E9%94%81%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F&desp=%23%23%23%23+%E6%97%A5%E6%9C%9F%EF%BC%9A%0A2024-10-10+15%3A37%3A02%0A%23%23%23%23+%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80%EF%BC%9A%0Ac6576a9d-299b-4d12-a5e0-fdb7e803f0f0.jpg&tags=%E5%BC%80%E6%9C%BA%E3%80%81%E8%A7%A3%E9%94%81%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C31473C910>: Failed to resolve 'sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com' ([Errno 11002] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\Pycharm\PythonProject\compareData\PowerOnPush\onPush.py", line 94, in <module>
+    pushMes(pushTitle,pushDesp)
+  File "G:\Pycharm\PythonProject\compareData\PowerOnPush\onPush.py", line 78, in pushMes
+    response = requests.get(url, params=params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python311\Lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com', port=443): Max retries exceeded with url: /send?title=%E5%BC%80%E6%9C%BA%E3%80%81%E8%A7%A3%E9%94%81%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F&desp=%23%23%23%23+%E6%97%A5%E6%9C%9F%EF%BC%9A%0A2024-10-10+15%3A37%3A02%0A%23%23%23%23+%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80%EF%BC%9A%0Ac6576a9d-299b-4d12-a5e0-fdb7e803f0f0.jpg&tags=%E5%BC%80%E6%9C%BA%E3%80%81%E8%A7%A3%E9%94%81%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C31473C910>: Failed to resolve 'sctp775tpvpchldzraqedxxsqjobb9.push.ft07.com' ([Errno 11002] getaddrinfo failed)"))
+[10-2024-10 15:37:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 19:08:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 5e49e62a-34e8-468b-8d83-0f38d8655c77.jpg
+{'code': 0, 'data': {'pushid': 19478, 'meta': {'android': {'messageIds': {'messageId': ['10400516789381120']}, 'requestId': '0D1F5FBF-D07B-53B3-BF83-09FD5D2CC1AE', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[10-2024-10 19:08:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 19:58:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 616c7ffd-f2fc-48bc-b69d-96aab7943f45.jpg
+{'code': 0, 'data': {'pushid': 19539, 'meta': {'android': {'messageIds': {'messageId': ['10400716060888960']}, 'requestId': '50C271DE-C567-5263-830C-4800D371E54C', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[10-2024-10 19:58:] 绋嬪簭杩愯瀹屾瘯銆?  
+[10-2024-10 20:32:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 857863ef-5b40-43ed-8c52-1f5be7ed632b.jpg
+{'code': 0, 'data': {'pushid': 19582, 'meta': {'android': {'messageIds': {'messageId': ['10400848397280128']}, 'requestId': '02D56EF6-476C-5545-8451-9E1753733C83', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[10-2024-10 20:32:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 08:31:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 0348f09d-cdb6-497a-961f-4fb8d018225d.jpg
+{'code': 0, 'data': {'pushid': 20391, 'meta': {'android': {'messageIds': {'messageId': ['10403674650447360']}, 'requestId': '651301EF-6864-5DEF-A653-8939C5A8AF2B', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 08:31:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 08:58:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 bde56292-ecaa-49e3-a0dc-e37a8d4cacbd.jpg
+{'code': 0, 'data': {'pushid': 20429, 'meta': {'android': {'messageIds': {'messageId': ['10403784119558528']}, 'requestId': '18A1D885-C01A-51F6-8612-36C8A21DB36C', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 08:59:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 10:25:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 beb2f708-0ce3-411c-b2e7-52340355e0f7.jpg
+{'code': 0, 'data': {'pushid': 20575, 'meta': {'android': {'messageIds': {'messageId': ['10404123173323392']}, 'requestId': '79199A52-B36D-5D5A-8593-95DC1EDCF611', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 10:25:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 11:43:] 姝ｅ湪杩愯 onPush.py...   
+摄像头已打开，请等待拍照...
+图像已保存到 44007e98-8a00-4d84-9599-312816ce6c99.jpg
+{'code': 0, 'data': {'pushid': 20684, 'meta': {'android': {'messageIds': {'messageId': ['10404429814109568']}, 'requestId': '811F04C8-3C62-5EFF-A67C-FEF27BF9C9FC', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 11:43:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 11:48:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 3eb567cd-dd6b-4bcd-961e-86b505e8b4eb.jpg
+{'code': 0, 'data': {'pushid': 20689, 'meta': {'android': {'messageIds': {'messageId': ['10404450928369536']}, 'requestId': 'B0576AE7-3143-5F12-B5EF-AD979CE576AF', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 11:48:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 11:49:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 f92a8c07-175c-404b-9c5b-036e52cb7632.jpg
+{'code': 0, 'data': {'pushid': 20691, 'meta': {'android': {'messageIds': {'messageId': ['10404454271886464']}, 'requestId': '683536B7-80D6-52F1-9244-50C04384589C', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 11:49:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:38:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 5d1a93bf-cb90-497b-9f6d-b1052a04b2d7.jpg
+{'code': 0, 'data': {'pushid': 20861, 'meta': {'android': {'messageIds': {'messageId': ['10404883352587264']}, 'requestId': 'A209D7B2-4B04-5AA5-ACC7-9A9D42F58BC7', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:38:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:39:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 43091124-0a06-4759-a201-7ed973c49236.jpg
+{'code': 0, 'data': {'pushid': 20863, 'meta': {'android': {'messageIds': {'messageId': ['10404885396333312']}, 'requestId': '0D58A325-CD1F-5D97-8727-FF09EE09E7B9', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:39:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:39:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 f0ff476e-3eac-4f49-822d-3b6b5767947d.jpg
+{'code': 0, 'data': {'pushid': 20865, 'meta': {'android': {'messageIds': {'messageId': ['10404887706801408']}, 'requestId': '12D0DB90-C68F-5BC4-95E6-A63B05016F8A', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:39:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:39:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 81d1fc47-3981-438a-9013-c04d2ab85c7c.jpg
+{'code': 0, 'data': {'pushid': 20866, 'meta': {'android': {'messageIds': {'messageId': ['10404888738809216']}, 'requestId': '5F6693E7-B311-5B16-B5A6-00D82309985E', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:40:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:40:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 3c94ba52-917b-469d-bf95-a1ddf6abb1c5.jpg
+{'code': 0, 'data': {'pushid': 20867, 'meta': {'android': {'messageIds': {'messageId': ['10404890704815616']}, 'requestId': '0CB7E8B7-DBF0-59D9-B2C8-CB5181F4F1AF', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:40:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:40:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 1dd67b66-996b-4cb5-8503-3b98bd81f606.jpg
+{'code': 0, 'data': {'pushid': 20869, 'meta': {'android': {'messageIds': {'messageId': ['10404891754764416']}, 'requestId': '3793E697-4AE3-59F1-AB71-B4C4C1B2070F', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:40:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:41:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 5d4be4f7-bf9d-432a-adb5-4d19414d4c84.jpg
+{'code': 0, 'data': {'pushid': 20870, 'meta': {'android': {'messageIds': {'messageId': ['10404896200277760']}, 'requestId': 'D8329C1D-AF41-5874-90AB-636C57B2BCBA', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:41:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:42:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 aceda2b9-c378-4f41-b459-a6702cca84d1.jpg
+{'code': 0, 'data': {'pushid': 20872, 'meta': {'android': {'messageIds': {'messageId': ['10404897555551104']}, 'requestId': '703F825E-C4FA-5176-B990-FDB03B9F83C7', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:42:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:43:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 f0780fb1-922f-458f-8b06-c8d635d31737.jpg
+{'code': 0, 'data': {'pushid': 20878, 'meta': {'android': {'messageIds': {'messageId': ['10404904135500544']}, 'requestId': '63A9D965-C29E-570E-9810-366437A03024', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:43:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:44:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 cc677543-bb11-438c-8541-daa4d8a71762.jpg
+{'code': 0, 'data': {'pushid': 20879, 'meta': {'android': {'messageIds': {'messageId': ['10404905335141632']}, 'requestId': '1C5F28E2-3B6A-5069-831D-BCA53A72B8F6', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:44:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:44:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 c736d82b-009c-4a15-9435-a08d037be373.jpg
+{'code': 0, 'data': {'pushid': 20882, 'meta': {'android': {'messageIds': {'messageId': ['10404907035273088']}, 'requestId': '2BD3631F-C8F8-5792-BCB7-D8E3D0E0883D', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:44:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:44:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 4ad7f2ac-32b7-4fbe-a07e-06eeb58f1112.jpg
+{'code': 0, 'data': {'pushid': 20883, 'meta': {'android': {'messageIds': {'messageId': ['10404908239561984']}, 'requestId': '9C3E3667-1D2C-51D5-BBD6-CB0E7A0CCD64', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:45:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:45:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 a3b2e838-703f-4312-97e8-f46c663907d9.jpg
+{'code': 0, 'data': {'pushid': 20884, 'meta': {'android': {'messageIds': {'messageId': ['10404909116362112']}, 'requestId': 'D7458A72-FC65-5DAF-AED9-2B986261BC07', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:45:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:45:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 97ec42ec-acc6-4450-98f7-b7a16718fe08.jpg
+{'code': 0, 'data': {'pushid': 20886, 'meta': {'android': {'messageIds': {'messageId': ['10404911939853440']}, 'requestId': '2F0463C5-E86B-5FDF-9CF5-B6CB6C5C82BD', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:45:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 13:46:] 姝ｅ湪杩愯 onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 eb6adf51-bcd8-4cd8-a7da-c73d5ff6c74a.jpg
+{'code': 0, 'data': {'pushid': 20888, 'meta': {'android': {'messageIds': {'messageId': ['10404912818750976']}, 'requestId': '6515C3F1-F6A0-558C-A524-AE0BA401BEB0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 13:46:] 绋嬪簭杩愯瀹屾瘯銆?  
+[11-2024-10 14:01:] startSoftware onPush.py...   
+=========================================================
+摄像头已打开，请等待拍照...
+图像已保存到 8c108b3f-acaa-4f90-b591-4fa463ca60b1.jpg
+{'code': 0, 'data': {'pushid': 20911, 'meta': {'android': {'messageIds': {'messageId': ['10404973895295488']}, 'requestId': '706BE57E-EC8B-5E60-AEA1-560D89D1AB0D', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+=========================================================
+[11-2024-10 14:01:] endSoftware   
+[11-2024-10 14:08:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 f4dff657-d09c-4578-af88-b775910c139c.jpg
+{'code': 0, 'data': {'pushid': 20922, 'meta': {'android': {'messageIds': {'messageId': ['10404999985316992']}, 'requestId': '1BEF60B5-E31C-56A9-A50B-B939F96DB0D6', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 14:08:] --------------   endSoftware...  --------------    
+[11-2024-10 14:19:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 f5f452cf-03c0-4e34-a2a5-afa1c3a79cbc.jpg
+{'code': 0, 'data': {'pushid': 20931, 'meta': {'android': {'messageIds': {'messageId': ['10405042534358912']}, 'requestId': 'C7862432-A827-5FA6-8EB3-AD0006B6B720', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 14:19:] --------------   endSoftware...  --------------    
+[11-2024-10 15:21:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 7022e49f-9d97-470c-8d6a-2c985f5dd76e.jpg
+{'code': 0, 'data': {'pushid': 21027, 'meta': {'android': {'messageIds': {'messageId': ['10405289735832960']}, 'requestId': '1E77E8F0-6835-5CCB-B11B-7754E3E3B482', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 15:22:] --------------   endSoftware...  --------------    
+[11-2024-10 15:45:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 0d46e9bd-8d1f-42a0-9e47-d30cde1681fc.jpg
+{'code': 0, 'data': {'pushid': 21061, 'meta': {'android': {'messageIds': {'messageId': ['10405381083644416']}, 'requestId': '2EA8A681-1CD3-5B06-924E-D7B860C32F64', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 15:45:] --------------   endSoftware...  --------------    
+[11-2024-10 18:19:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 86db7fbe-99d5-455b-965b-261e8b2b9098.jpg
+{'code': 0, 'data': {'pushid': 21478, 'meta': {'android': {'messageIds': {'messageId': ['10405988490025856']}, 'requestId': 'B38C1E47-7582-552D-A06F-A65BA30A361F', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 18:19:] --------------   endSoftware...  --------------    
+[11-2024-10 18:54:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 039e665b-2dcf-4533-bdba-67c953638b02.jpg
+{'code': 0, 'data': {'pushid': 21597, 'meta': {'android': {'messageIds': {'messageId': ['10406127165318144']}, 'requestId': 'F99546AC-F874-5B5A-83D8-927BF2382D7D', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 18:54:] --------------   endSoftware...  --------------    
+[11-2024-10 18:55:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 b80caa75-6197-4ca3-93fa-7d8526a0d2a3.jpg
+{'code': 0, 'data': {'pushid': 21598, 'meta': {'android': {'messageIds': {'messageId': ['10406129430565632']}, 'requestId': '803C9332-480C-5C62-B5AF-6606ABE89621', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[11-2024-10 18:55:] --------------   endSoftware...  --------------    
+[12-2024-10 08:39:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 c0dbe3dd-bc04-4a5f-a5ad-2b396aa993b3.jpg
+{'code': 0, 'data': {'pushid': 22597, 'meta': {'android': {'messageIds': {'messageId': ['10409368799221760']}, 'requestId': '47638096-EF9A-5218-920F-02364C025FE8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 08:39:] --------------   endSoftware...  --------------    
+[12-2024-10 08:56:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 e33a381f-caff-4edc-9891-1990b2989e5e.jpg
+{'code': 0, 'data': {'pushid': 22617, 'meta': {'android': {'messageIds': {'messageId': ['10409435276058880']}, 'requestId': '1F7AE976-D93A-53EF-900D-4F5B0FDB6B24', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 08:56:] --------------   endSoftware...  --------------    
+[12-2024-10 09:57:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 7384b0bc-e45b-4754-99e0-a875b4c0026e.jpg
+{'code': 0, 'data': {'pushid': 22734, 'meta': {'android': {'messageIds': {'messageId': ['10409676398660480']}, 'requestId': 'CFF6216A-8E86-55BE-96AD-E656A4F803B3', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 09:57:] --------------   endSoftware...  --------------    
+[12-2024-10 10:44:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 41464344-b899-4cd9-8615-a121009853fe.jpg
+{'code': 0, 'data': {'pushid': 22826, 'meta': {'android': {'messageIds': {'messageId': ['10409861636489344']}, 'requestId': '0539F917-DA9F-5971-832D-EEBFDFB054DC', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 10:44:] --------------   endSoftware...  --------------    
+[12-2024-10 11:05:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 ae70bd0a-e245-487a-9fa1-902fbd703354.jpg
+{'code': 0, 'data': {'pushid': 22855, 'meta': {'android': {'messageIds': {'messageId': ['10409943774471552']}, 'requestId': 'C08F88C6-788D-557E-8FD1-79F00C10882B', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 11:05:] --------------   endSoftware...  --------------    
+[12-2024-10 11:30:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 1636f423-361e-48d9-945e-77fccf9e3c21.jpg
+{'code': 0, 'data': {'pushid': 22891, 'meta': {'android': {'messageIds': {'messageId': ['10410041462754816']}, 'requestId': 'BCC1FC05-7F98-55FD-8BE2-10D41A1C7DAB', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 11:30:] --------------   endSoftware...  --------------    
+[12-2024-10 13:42:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 96511b47-e19b-49f7-8926-5c36cc6b0c97.jpg
+{'code': 0, 'data': {'pushid': 23104, 'meta': {'android': {'messageIds': {'messageId': ['10410559974080640']}, 'requestId': '0B2F10D2-CF0F-5E79-952C-3B4286A8BABE', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 13:42:] --------------   endSoftware...  --------------    
+[12-2024-10 13:59:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 2ed33a72-66e7-4686-ba94-cdb333e3bce7.jpg
+{'code': 0, 'data': {'pushid': 23117, 'meta': {'android': {'messageIds': {'messageId': ['10410626759790080']}, 'requestId': 'D60F1619-8B7F-50F6-B9F1-EEBB22BB0AEB', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 13:59:] --------------   endSoftware...  --------------    
+[12-2024-10 15:27:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 48383f60-7afb-493b-a35f-da65c602f746.jpg
+{'code': 0, 'data': {'pushid': 23232, 'meta': {'android': {'messageIds': {'messageId': ['10410975117918848']}, 'requestId': '5AACAD47-2547-5F04-975E-E48692B27456', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 15:27:] --------------   endSoftware...  --------------    
+[12-2024-10 16:39:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 bbbc7027-166e-446f-89e6-303292992def.jpg
+{'code': 0, 'data': {'pushid': 23394, 'meta': {'android': {'messageIds': {'messageId': ['10411259213586432']}, 'requestId': '7D74FAF3-6EF1-5834-9A92-45D9DEE710B0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[12-2024-10 16:40:] --------------   endSoftware...  --------------    
+[14-2024-10 11:03:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 ddc27fd7-5cc7-48a4-a2fe-7ac140217131.jpg
+{'code': 0, 'data': {'pushid': 26775, 'meta': {'android': {'messageIds': {'messageId': ['10421261002219136']}, 'requestId': '9C835241-F38E-5441-9850-0C3CD2A06DE1', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[14-2024-10 11:03:] --------------   endSoftware...  --------------    
+[14-2024-10 11:41:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 9f08f721-cf7d-4f64-8250-5d09e8b4d850.jpg
+{'code': 0, 'data': {'pushid': 26838, 'meta': {'android': {'messageIds': {'messageId': ['10421408704366464']}, 'requestId': 'FE97AD61-5519-5C0A-B92B-905EB0D1D5AD', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[14-2024-10 11:41:] --------------   endSoftware...  --------------    
+[14-2024-10 13:48:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 664c69e4-df92-457e-ad2e-5e81432b7e92.jpg
+{'code': 0, 'data': {'pushid': 27015, 'meta': {'android': {'messageIds': {'messageId': ['10421912189672704']}, 'requestId': '91FDCB3D-41CD-5648-BB3A-DC51F15EC008', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[14-2024-10 13:49:] --------------   endSoftware...  --------------    
+[15-2024-10 08:36:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 97b8ddda-1a3f-487a-9c69-2c77055abc49.jpg
+{'code': 0, 'data': {'pushid': 28753, 'meta': {'android': {'messageIds': {'messageId': ['10426346712146944']}, 'requestId': '23D67F31-716D-5C0C-85A6-22A0996481E8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 08:37:] --------------   endSoftware...  --------------    
+[15-2024-10 10:26:] --------------   startSoftware onPush.py...  --------------   
+[15-2024-10 10:39:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 90803f50-3611-4d7a-a589-cd3cc05320cc.jpg
+{'code': 0, 'data': {'pushid': 28982, 'meta': {'android': {'messageIds': {'messageId': ['10426829050690176']}, 'requestId': '6D988C6C-5832-58D6-A88C-2F27990CF0B8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 10:39:] --------------   endSoftware...  --------------    
+[15-2024-10 13:38:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 bfb4264c-76fb-499c-949e-3970290f1ec5.jpg
+{'code': 0, 'data': {'pushid': 29384, 'meta': {'android': {'messageIds': {'messageId': ['10427533615964928']}, 'requestId': '947E965D-837A-556C-A38E-902D9534B4F0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 13:38:] --------------   endSoftware...  --------------    
+[15-2024-10 15:51:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 41f1ce57-0b0d-407e-b48c-52caddaaea24.jpg
+{'code': 0, 'data': {'pushid': 29905, 'meta': {'android': {'messageIds': {'messageId': ['10428054805680768']}, 'requestId': '64119B17-37F8-53A4-8B34-D9562CD08F5D', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 15:51:] --------------   endSoftware...  --------------    
+[15-2024-10 16:14:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 4ab50fd0-5709-4e2b-b937-c82ed1eff3f3.jpg
+{'code': 0, 'data': {'pushid': 29940, 'meta': {'android': {'messageIds': {'messageId': ['10428144742054144']}, 'requestId': '1C6510CD-B685-5DE9-9574-E05C4161FB73', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 16:14:] --------------   endSoftware...  --------------    
+[15-2024-10 16:54:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 f7850735-0434-4a9f-a616-8326079f5585.jpg
+{'code': 0, 'data': {'pushid': 29985, 'meta': {'android': {'messageIds': {'messageId': ['10428302480845056']}, 'requestId': 'C024F129-28C5-5344-B54C-D7A5D29BFFCF', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 16:54:] --------------   endSoftware...  --------------    
+[15-2024-10 16:54:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 4f79c6f9-968d-42a0-a39b-743eb6ef69ee.jpg
+{'code': 0, 'data': {'pushid': 29986, 'meta': {'android': {'messageIds': {'messageId': ['10428303147012864']}, 'requestId': 'DF8D81DA-7929-5D53-9594-1F06525D61B1', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 16:54:] --------------   endSoftware...  --------------    
+[15-2024-10 16:54:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 bbb5f6a9-8abc-4a97-a41b-8541aa63156d.jpg
+{'code': 0, 'data': {'pushid': 29987, 'meta': {'android': {'messageIds': {'messageId': ['10428303927550336']}, 'requestId': 'E3A5313D-10F0-5279-B37A-2751212C1EC9', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 16:54:] --------------   endSoftware...  --------------    
+[15-2024-10 16:55:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 c0487154-37bc-414d-b290-1c3854490205.jpg
+{'code': 0, 'data': {'pushid': 29988, 'meta': {'android': {'messageIds': {'messageId': ['10428307140250752']}, 'requestId': '2A688E52-4CB0-5532-94E1-28B283251CCC', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 16:55:] --------------   endSoftware...  --------------    
+[15-2024-10 16:56:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 43a9213b-ac23-4deb-a403-cc2553db9cec.jpg
+{'code': 0, 'data': {'pushid': 29989, 'meta': {'android': {'messageIds': {'messageId': ['10428311080539520']}, 'requestId': 'EB481C4F-5857-5678-B1C6-9230EED20818', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 16:56:] --------------   endSoftware...  --------------    
+[15-2024-10 20:31:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 7eaceb3b-48a2-469b-ad33-4eb726d87a20.jpg
+{'code': 0, 'data': {'pushid': 30428, 'meta': {'android': {'messageIds': {'messageId': ['10429156501432576']}, 'requestId': 'D29F65D2-B860-5A00-97BE-EA47624C7215', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2024-10 20:31:] --------------   endSoftware...  --------------    
+[16-2024-10 08:29:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 d10a3dfb-10cd-46b4-9abe-e21a2b554547.jpg
+{'code': 0, 'data': {'pushid': 31012, 'meta': {'android': {'messageIds': {'messageId': ['10431980007658880']}, 'requestId': '6E178E5E-E0EF-5CDE-A652-F87B3DADD20C', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 08:29:] --------------   endSoftware...  --------------    
+[16-2024-10 08:35:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 5f51353f-abf8-46ed-8050-c89914eb2093.jpg
+{'code': 0, 'data': {'pushid': 31019, 'meta': {'android': {'messageIds': {'messageId': ['10432004158272896']}, 'requestId': 'A5A704FA-2B60-5289-BFD9-C6BB939DAD4B', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 08:35:] --------------   endSoftware...  --------------    
+[16-2024-10 08:38:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 dc14b027-76e1-4f09-b230-f905e92024bc.jpg
+{'code': 0, 'data': {'pushid': 31022, 'meta': {'android': {'messageIds': {'messageId': ['10432016915300480']}, 'requestId': '351B5B4F-4518-5FD9-AFFA-82EE53FEE957', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 08:39:] --------------   endSoftware...  --------------    
+[16-2024-10 08:40:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 a399dad8-5d61-4c27-8360-e105b0d1fc6c.jpg
+{'code': 0, 'data': {'pushid': 31025, 'meta': {'android': {'messageIds': {'messageId': ['10432024637740032']}, 'requestId': '744240FC-2BE6-57C0-B005-60DC6CE17229', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 08:41:] --------------   endSoftware...  --------------    
+[16-2024-10 09:12:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 c2be7cc4-25c1-4fa3-83b2-5a382b3b7fca.jpg
+{'code': 0, 'data': {'pushid': 31094, 'meta': {'android': {'messageIds': {'messageId': ['10432148223563520']}, 'requestId': '997CFD48-D155-5B2E-82E5-87AFA7728AA0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 09:12:] --------------   endSoftware...  --------------    
+[16-2024-10 13:27:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 08e8730a-9f82-4fc5-b92a-32d1c10d9d77.jpg
+{'code': 0, 'data': {'pushid': 31509, 'meta': {'android': {'messageIds': {'messageId': ['10433151433051392']}, 'requestId': 'C894FC27-6396-51B8-B8FC-1B5B4D1137A1', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 13:27:] --------------   endSoftware...  --------------    
+[16-2024-10 13:33:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 2abd95ee-f612-4b84-b81e-8d0bca005121.jpg
+{'code': 0, 'data': {'pushid': 31513, 'meta': {'android': {'messageIds': {'messageId': ['10433175990059648']}, 'requestId': '07EB6719-7017-5146-9CCF-75C467748D7E', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 13:33:] --------------   endSoftware...  --------------    
+[16-2024-10 13:35:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 fdf2ce4e-49fd-4e81-ae13-5b324bb8bccd.jpg
+{'code': 0, 'data': {'pushid': 31516, 'meta': {'android': {'messageIds': {'messageId': ['10433181541152128']}, 'requestId': '9A22DE39-D743-50E5-B17F-320A302E463D', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 13:35:] --------------   endSoftware...  --------------    
+[16-2024-10 13:52:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 62942b4a-11f9-4b8b-8cbc-e2ed935f0b57.jpg
+{'code': 0, 'data': {'pushid': 31535, 'meta': {'android': {'messageIds': {'messageId': ['10433251816312448']}, 'requestId': '51BD3C08-B6EC-5035-92B8-7888838B04C0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 13:53:] --------------   endSoftware...  --------------    
+[16-2024-10 14:13:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 e945f076-1de3-406d-9821-d344882a0f1a.jpg
+{'code': 0, 'data': {'pushid': 31560, 'meta': {'android': {'messageIds': {'messageId': ['10433334230982144']}, 'requestId': '288C36B9-394C-5C9C-8E92-71699A78B0D0', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 14:14:] --------------   endSoftware...  --------------    
+[16-2024-10 14:27:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 95aa7ab2-bce5-4dd9-87d2-98735c62f42c.jpg
+{'code': 0, 'data': {'pushid': 31573, 'meta': {'android': {'messageIds': {'messageId': ['10433388332728576']}, 'requestId': '88084121-76FE-56A1-BDBA-67DDC380EB68', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 14:27:] --------------   endSoftware...  --------------    
+[16-2024-10 14:45:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 3496bea0-ae2b-425c-b0b8-6e1426d79364.jpg
+{'code': 0, 'data': {'pushid': 31595, 'meta': {'android': {'messageIds': {'messageId': ['10433458121343872']}, 'requestId': 'C6C71420-EAD2-5157-966E-8B2C443E9FC8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 14:45:] --------------   endSoftware...  --------------    
+[16-2024-10 14:58:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 41d330ce-7304-47b1-8412-6eac3f352492.jpg
+{'code': 0, 'data': {'pushid': 31625, 'meta': {'android': {'messageIds': {'messageId': ['10433508918104960']}, 'requestId': '633A0ECA-866A-5183-B068-02F738BDDDE6', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 14:58:] --------------   endSoftware...  --------------    
+[16-2024-10 15:10:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 957b53fc-19eb-4bd6-869c-b1f3e0a92351.jpg
+{'code': 0, 'data': {'pushid': 31656, 'meta': {'android': {'messageIds': {'messageId': ['10433555674507648']}, 'requestId': 'F3EC1D79-9BFE-5046-BBB1-A61554518912', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 15:10:] --------------   endSoftware...  --------------    
+[16-2024-10 15:21:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 7bd340b3-5788-4828-956d-0949b5e6a5d3.jpg
+{'code': 0, 'data': {'pushid': 31679, 'meta': {'android': {'messageIds': {'messageId': ['10433599292785792']}, 'requestId': 'DCF05B26-E401-583E-A572-C5BA58153DB8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 15:21:] --------------   endSoftware...  --------------    
+[16-2024-10 15:25:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 0f4ffbec-160d-4c2c-a136-47ad995ff42e.jpg
+{'code': 0, 'data': {'pushid': 31691, 'meta': {'android': {'messageIds': {'messageId': ['10433614822514048']}, 'requestId': 'FBC6A65B-5CA3-5C08-9E1F-582A6C0D5ADE', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 15:25:] --------------   endSoftware...  --------------    
+[16-2024-10 16:36:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 6e8ceafd-6b19-4e72-bf7f-99d08b574296.jpg
+{'code': 0, 'data': {'pushid': 31842, 'meta': {'android': {'messageIds': {'messageId': ['10433893358179968']}, 'requestId': '3E8EB0B9-3C8D-5EE8-B0DF-04142706557E', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 16:36:] --------------   endSoftware...  --------------    
+[16-2024-10 16:42:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 01dca73d-15e7-4765-ac75-3e2c834efed7.jpg
+{'code': 0, 'data': {'pushid': 31847, 'meta': {'android': {'messageIds': {'messageId': ['10433918084908160']}, 'requestId': 'C6B0CF98-D21E-5FBA-8882-57CC4000C3D1', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 16:42:] --------------   endSoftware...  --------------    
+[16-2024-10 16:52:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 f3f16ec9-a2c0-487b-9f5b-a8f9ea9b337c.jpg
+{'code': 0, 'data': {'pushid': 31866, 'meta': {'android': {'messageIds': {'messageId': ['10433957521000704']}, 'requestId': '53406644-E7A8-57BB-81AB-FA95822D597E', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 16:52:] --------------   endSoftware...  --------------    
+[16-2024-10 16:59:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 fc761ea0-0f30-4a45-9590-0ccf96e8bb26.jpg
+{'code': 0, 'data': {'pushid': 31888, 'meta': {'android': {'messageIds': {'messageId': ['10433985367785216']}, 'requestId': 'BCEDC6E5-471F-5F96-9B08-3B2BBDE1B733', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 16:59:] --------------   endSoftware...  --------------    
+[16-2024-10 18:31:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 dbc9174a-1b32-474d-915e-658ad5adcabe.jpg
+{'code': 0, 'data': {'pushid': 32157, 'meta': {'android': {'messageIds': {'messageId': ['10434345721009792']}, 'requestId': '93101AE7-8DDC-5E86-9F65-F4680CDA143F', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 18:31:] --------------   endSoftware...  --------------    
+[16-2024-10 20:03:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 70643097-76a0-4561-9584-a62e137c8218.jpg
+{'code': 0, 'data': {'pushid': 32336, 'meta': {'android': {'messageIds': {'messageId': ['10434707895878528']}, 'requestId': 'F58E8438-B34B-52D7-8D8B-002440C5578C', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 20:03:] --------------   endSoftware...  --------------    
+[16-2024-10 20:07:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 b21d0674-e463-4cbf-972a-46784e08dc6e.jpg
+{'code': 0, 'data': {'pushid': 32341, 'meta': {'android': {'messageIds': {'messageId': ['10434725560395008']}, 'requestId': '6614C4C4-EF15-5579-9558-9D73033F8B68', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[16-2024-10 20:07:] --------------   endSoftware...  --------------    
+[17-2024-10 13:28:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 b01b8688-5b1d-4462-9304-d328badc3365.jpg
+{'code': 0, 'data': {'pushid': 33554, 'meta': {'android': {'messageIds': {'messageId': ['10438818184630272']}, 'requestId': '7A7DAA82-C0EB-5132-9A2F-753D86C6E7FD', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[17-2024-10 13:28:] --------------   endSoftware...  --------------    
+[17-2024-10 13:46:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 0e44cce4-152d-4302-b293-46ec78148615.jpg
+{'code': 0, 'data': {'pushid': 33582, 'meta': {'android': {'messageIds': {'messageId': ['10438887388561152']}, 'requestId': '4613F930-A58B-52B3-A807-950FCB912718', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[17-2024-10 13:46:] --------------   endSoftware...  --------------    
+[17-2024-10 15:27:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 031d5010-df98-4bc3-a1ab-5b6f37855d6f.jpg
+{'code': 0, 'data': {'pushid': 33734, 'meta': {'android': {'messageIds': {'messageId': ['10439285348769280']}, 'requestId': '99927B80-7671-552F-870D-59E438C1498A', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[17-2024-10 15:27:] --------------   endSoftware...  --------------    
+[17-2024-10 16:43:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 0d240bb1-1ef3-4f34-b596-9594dd9e8588.jpg
+{'code': 0, 'data': {'pushid': 34156, 'meta': {'android': {'messageIds': {'messageId': ['10439582983457920']}, 'requestId': 'E096BEF6-0341-5737-AA37-97592D238ADE', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[17-2024-10 16:43:] --------------   endSoftware...  --------------    
+[18-2024-10 08:38:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 ebdd91c8-7436-4ed6-9d8e-00607722ccf8.jpg
+{'code': 0, 'data': {'pushid': 35722, 'meta': {'android': {'messageIds': {'messageId': ['10443341529093120']}, 'requestId': 'E2BF4E07-2092-5104-AC33-7679287F0F96', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 08:39:] --------------   endSoftware...  --------------    
+[18-2024-10 09:28:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 ccf876d5-ad87-4f69-98f1-180e09d7754e.jpg
+{'code': 0, 'data': {'pushid': 35836, 'meta': {'android': {'messageIds': {'messageId': ['10443537002208768']}, 'requestId': '31D47B2E-38A8-56A8-8C50-90DAADE6F587', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 09:28:] --------------   endSoftware...  --------------    
+[18-2024-10 09:44:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 216c5bfe-3ced-4f65-9fb0-229d0272de6c.jpg
+{'code': 0, 'data': {'pushid': 35863, 'meta': {'android': {'messageIds': {'messageId': ['10443598702186112']}, 'requestId': '64CCD365-4F8B-5441-8D0A-DF6D1514195A', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 09:44:] --------------   endSoftware...  --------------    
+[18-2024-10 10:23:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 a58edc6d-5481-4875-a109-0348f43c39a9.jpg
+{'code': 0, 'data': {'pushid': 35976, 'meta': {'android': {'messageIds': {'messageId': ['10443753129379584']}, 'requestId': '4243A96B-0B61-5597-BA9B-33F10CF2883E', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 10:23:] --------------   endSoftware...  --------------    
+[18-2024-10 11:02:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 9f321659-640c-41b2-8e31-1deb06fb74a3.jpg
+{'code': 0, 'data': {'pushid': 36068, 'meta': {'android': {'messageIds': {'messageId': ['10443908682890624']}, 'requestId': 'B238D610-B229-594A-944F-1683E475479C', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 11:03:] --------------   endSoftware...  --------------    
+[18-2024-10 13:38:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 c87bc69c-8447-4be7-96e2-2d46865ef5db.jpg
+{'code': 0, 'data': {'pushid': 36519, 'meta': {'android': {'messageIds': {'messageId': ['10444520044436736']}, 'requestId': 'B6909FD7-341B-5351-A71D-F6E7F5667F4C', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 13:38:] --------------   endSoftware...  --------------    
+[18-2024-10 15:25:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 bb994320-7683-4acd-a39d-a9c36a016e1e.jpg
+{'code': 0, 'data': {'pushid': 36801, 'meta': {'android': {'messageIds': {'messageId': ['10444940155691264']}, 'requestId': 'E6FED983-B769-5E58-A04F-86E07C0AD56A', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 15:25:] --------------   endSoftware...  --------------    
+[18-2024-10 16:12:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 6fac809b-bcf1-4ef6-b2eb-564707b1da9f.jpg
+{'code': 0, 'data': {'pushid': 36938, 'meta': {'android': {'messageIds': {'messageId': ['10445125156741120']}, 'requestId': 'BD458E0B-DB79-5F92-9FE2-B03BBEF7D748', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 16:12:] --------------   endSoftware...  --------------    
+[18-2024-10 16:37:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 3855bcb9-ea87-49c7-af77-3fbd2c8edaa4.jpg
+{'code': 0, 'data': {'pushid': 36988, 'meta': {'android': {'messageIds': {'messageId': ['10445224474582912']}, 'requestId': '338BBE91-3F74-5493-97AA-9450298ACF03', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[18-2024-10 16:37:] --------------   endSoftware...  --------------    
+[21-2024-10 08:31:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 63ae60af-cc09-4a3b-a77f-211beb8809bd.jpg
+{'code': 0, 'data': {'pushid': 43074, 'meta': {'android': {'messageIds': {'messageId': ['10460301477154176']}, 'requestId': '4D6064B2-1F52-5AD8-8044-789D4A896E98', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[21-2024-10 08:32:] --------------   endSoftware...  --------------    
+[21-2024-10 09:21:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 372bcdb0-cb12-4641-b347-96e4ef00d663.jpg
+{'code': 0, 'data': {'pushid': 43166, 'meta': {'android': {'messageIds': {'messageId': ['10460496722200192']}, 'requestId': '5B927FD1-9D46-5F7C-BE54-2F30E66C96EA', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[21-2024-10 09:21:] --------------   endSoftware...  --------------    
+[21-2024-10 09:46:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 29a8da50-f60c-4170-bc23-8f32b87fa86a.jpg
+{'code': 0, 'data': {'pushid': 43213, 'meta': {'android': {'messageIds': {'messageId': ['10460593098991744']}, 'requestId': 'CE10A287-65D4-57E2-9A4F-753291E61DE8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[21-2024-10 09:46:] --------------   endSoftware...  --------------    
+[21-2024-10 10:44:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 520d26fd-d1d8-423e-89bb-f744b9d20fcb.jpg
+{'code': 0, 'data': {'pushid': 43374, 'meta': {'android': {'messageIds': {'messageId': ['10460822432915840']}, 'requestId': 'C8786511-04F7-55CF-AECA-848FE649F779', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[21-2024-10 10:44:] --------------   endSoftware...  --------------    
+[21-2024-10 11:30:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 802b2414-7798-4e24-9f5f-9c8f67d54782.jpg
+{'code': 0, 'data': {'pushid': 43441, 'meta': {'android': {'messageIds': {'messageId': ['10461004325134208']}, 'requestId': '6901627F-2DF9-5634-877A-A7075B592A08', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[21-2024-10 11:30:] --------------   endSoftware...  --------------    
+[21-2024-10 13:38:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 b4678601-beab-43c0-aebe-469958ed71e2.jpg
+{'code': 0, 'data': {'pushid': 43667, 'meta': {'android': {'messageIds': {'messageId': ['10461506583789824']}, 'requestId': 'FDA25BDC-46FC-59A0-99D2-92D210B535B6', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[21-2024-10 13:38:] --------------   endSoftware...  --------------    
+[21-2024-10 15:06:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 66fa7b61-e02b-4a5b-a2dc-cc5a7a7410c1.jpg
+{'code': 0, 'data': {'pushid': 43831, 'meta': {'android': {'messageIds': {'messageId': ['10461852200010624']}, 'requestId': 'B57C2C50-B321-539A-AF7B-C566403F5F74', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[21-2024-10 15:06:] --------------   endSoftware...  --------------    
+[21-2024-10 19:37:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 de18bb88-cf9f-490b-9d42-a97dea4f5e4d.jpg
+{'code': 0, 'data': {'pushid': 44412, 'meta': {'android': {'messageIds': {'messageId': ['10462917630625152']}, 'requestId': '1219E373-7C57-54BF-815E-EF13E5A09533', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[21-2024-10 19:37:] --------------   endSoftware...  --------------    
+[22-2024-10 08:36:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 c44ef057-8d27-41a4-9846-d61ae242aa49.jpg
+{'code': 0, 'data': {'pushid': 45486, 'meta': {'android': {'messageIds': {'messageId': ['10465981565632640']}, 'requestId': 'C70D63E2-55A2-5008-9C03-89917D2A0351', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 08:36:] --------------   endSoftware...  --------------    
+[22-2024-10 09:11:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 9d00f878-d290-48aa-b086-cb24668eec08.jpg
+{'code': 0, 'data': {'pushid': 45563, 'meta': {'android': {'messageIds': {'messageId': ['10466119409415936']}, 'requestId': 'E4C6A2B7-B93F-5987-9313-D99B454C9DF2', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 09:11:] --------------   endSoftware...  --------------    
+[22-2024-10 10:08:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 181f371c-e626-4e5e-91d3-260cef4a2fd1.jpg
+{'code': 0, 'data': {'pushid': 45701, 'meta': {'android': {'messageIds': {'messageId': ['10466344389129088']}, 'requestId': '6452A277-F1A0-5CE3-9DB7-21296B83ACC8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 10:09:] --------------   endSoftware...  --------------    
+[22-2024-10 10:37:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 cc793fe5-8fdf-4e71-b56d-3874b8d0b478.jpg
+{'code': 0, 'data': {'pushid': 45746, 'meta': {'android': {'messageIds': {'messageId': ['10466455463856896']}, 'requestId': 'E17C7C67-DA33-5C1D-9472-4DC70053B65D', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 10:37:] --------------   endSoftware...  --------------    
+[22-2024-10 10:45:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 3d3e866e-32cf-44c4-b3a4-a540979a5922.jpg
+{'code': 0, 'data': {'pushid': 45764, 'meta': {'android': {'messageIds': {'messageId': ['10466490193223168']}, 'requestId': '65852538-D989-5720-BBEC-9F682133BCBC', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 10:46:] --------------   endSoftware...  --------------    
+[22-2024-10 13:35:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 e9792366-1d9b-4261-88f3-c639c9dd5974.jpg
+{'code': 0, 'data': {'pushid': 46112, 'meta': {'android': {'messageIds': {'messageId': ['10467158967648384']}, 'requestId': '3F6E0522-2AE8-5121-8061-2211E88C03E5', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 13:36:] --------------   endSoftware...  --------------    
+[22-2024-10 15:15:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 1780a8f9-48c9-45b0-8e3d-75c9374b1c71.jpg
+{'code': 0, 'data': {'pushid': 46299, 'meta': {'android': {'messageIds': {'messageId': ['10467550084795136']}, 'requestId': 'A57B66EC-4A36-5BCC-99AD-CC464E3772AA', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 15:15:] --------------   endSoftware...  --------------    
+[22-2024-10 15:59:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 4f196fce-23f7-4657-b34b-087f57fa729f.jpg
+{'code': 0, 'data': {'pushid': 46397, 'meta': {'android': {'messageIds': {'messageId': ['10467721419299712']}, 'requestId': 'CAC5A051-E12B-5159-A2A4-43E2F54A2B62', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 15:59:] --------------   endSoftware...  --------------    
+[22-2024-10 16:34:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 b4dd1074-f542-4e41-8064-9b062d0808e4.jpg
+{'code': 0, 'data': {'pushid': 46497, 'meta': {'android': {'messageIds': {'messageId': ['10467861867863680']}, 'requestId': '1AE0CA1E-1E05-5CC9-A37F-9F45CF3DE6B9', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 16:35:] --------------   endSoftware...  --------------    
+[22-2024-10 19:22:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 28a93fd9-08fe-4b50-a25a-c601c1123e6f.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 47013, 'meta': {'android': {'messageIds': {'messageId': ['10468521200133888']}, 'requestId': '8A787DFE-DF33-58B3-9EEE-5296851CA3AB', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 19:22:] --------------   endSoftware...  --------------    
+[22-2024-10 19:32:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 01f04089-9840-48b8-8d46-a97ae188278f.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 47041, 'meta': {'android': {'messageIds': {'messageId': ['10468562630870784']}, 'requestId': 'EDE45FD7-A80D-5132-9573-884226795DA5', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[22-2024-10 19:33:] --------------   endSoftware...  --------------    
+[23-2024-10 08:20:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 122bc259-98c4-4708-be56-b3ad19d4d681.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 48808, 'meta': {'android': {'messageIds': {'messageId': ['10471580918617984']}, 'requestId': 'FEE51B48-FDEB-546A-88C9-B9CCC7E8AD98', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[23-2024-10 08:20:] --------------   endSoftware...  --------------    
+[23-2024-10 08:44:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 dbee218c-e7cb-4da5-8dff-963a9b9511e7.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 48878, 'meta': {'android': {'messageIds': {'messageId': ['10471675543037952']}, 'requestId': 'D190AFEE-BA50-579E-BACD-A54A387EE94E', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[23-2024-10 08:44:] --------------   endSoftware...  --------------    
+[23-2024-10 10:22:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 1981d849-6cb3-4975-87dc-27cc605e2c79.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 49208, 'meta': {'android': {'messageIds': {'messageId': ['10472059522058368']}, 'requestId': 'AFEAB7EC-07B2-5B9E-B232-0B4732E168CC', 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[23-2024-10 10:22:] --------------   endSoftware...  --------------    
+[23-2024-10 11:28:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 49184b6f-c29a-43bd-aac2-df08b1ef1e5e.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 49431, 'meta': {'android': {'messageIds': {'messageId': ['10472319316070656']}, 'requestId': 'AC384CF1-BFF4-5B2E-B28B-2F252DCC558C', 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[23-2024-10 11:28:] --------------   endSoftware...  --------------    
+[23-2024-10 13:30:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 c2f196d3-d7f0-4fbb-987a-6f78de07971e.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 49851, 'meta': {'android': {'messageIds': {'messageId': ['10472799265423744']}, 'requestId': '6C0478D9-7206-541B-B8AA-609ADCE2D256', 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[23-2024-10 13:30:] --------------   endSoftware...  --------------    
+[23-2024-10 13:37:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 9d56453e-bac6-41a1-9298-d28345b1ee9f.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 49872, 'meta': {'android': {'messageIds': {'messageId': ['10472825300788224']}, 'requestId': '228CA2B1-798F-5A9D-B9BC-89C3817DF026', 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[23-2024-10 13:37:] --------------   endSoftware...  --------------    
+[23-2024-10 14:57:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 0baf5156-4d4a-494e-afd4-7cc63852ecee.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 50099, 'meta': {'android': {'messageIds': {'messageId': ['10473139972285696']}, 'requestId': '87A9F0D9-D275-555F-8080-9062A3B14479', 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[23-2024-10 14:57:] --------------   endSoftware...  --------------    
+[23-2024-10 15:42:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 fbd8e4ef-3326-48e2-a382-5e7fb2a897be.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 50382, 'meta': {'android': {'messageIds': {'messageId': ['10473317975992448']}, 'requestId': 'D7C0DC37-AD11-598D-A6DC-AE8A586E7FB5', 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['4e76f12d25444d51b29755529e0c8211', 'cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[23-2024-10 15:42:] --------------   endSoftware...  --------------    
