@@ -3779,3 +3779,23 @@ TypeError: can only concatenate str (not "NoneType") to str
 图像已保存到 47227340-a3b4-4a1b-8f84-dbd1b3976676.jpg
 {'code': 0, 'errno': 0, 'data': {'pushid': 1557966, 'meta': {'android': {'messageIds': {'messageId': ['11124752941456512']}, 'requestId': '23959428-EE24-56F4-AA28-01886AAF94F8', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
 [15-2025-02 16:50:] --------------   endSoftware...  --------------    
+[15-2025-02 17:04:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 20250215_170452-602578f3-f66f-489e-be1b-9a358dd0f814.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 1558156, 'meta': {'android': {'messageIds': {'messageId': ['11124807727996160']}, 'requestId': '7E1DC697-F568-5B8B-96DC-76C2EF5814FF', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2025-02 17:04:] --------------   endSoftware...  --------------    
+[15-2025-02 17:07:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 20250215_170802|d96ddb18-dddc-4bfa-b6e0-a779e210e9f0.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 1558207, 'meta': {'android': {'messageIds': {'messageId': ['11124820162189952']}, 'requestId': '7B0DE10E-6A1C-574F-B6B1-577393343052', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2025-02 17:08:] --------------   endSoftware...  --------------    
+[15-2025-02 17:09:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 20250215_170947--beead425-f820-410d-b2ea-d46d8a74b4d9.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 1558223, 'meta': {'android': {'messageIds': {'messageId': ['11124827301951232']}, 'requestId': '5528CAF5-95F9-5CAC-B63A-FAA8DBE0F153', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2025-02 17:09:] --------------   endSoftware...  --------------    
+[15-2025-02 17:10:] --------------   startSoftware onPush.py...  --------------   
+摄像头已打开，请等待拍照...
+图像已保存到 20250215_171025--55f00022-23d0-4b5d-a96f-25c232df52b2.jpg
+{'code': 0, 'errno': 0, 'data': {'pushid': 1558237, 'meta': {'android': {'messageIds': {'messageId': ['11124829564639616']}, 'requestId': '7A856D55-2F34-5D28-8E70-0D9DE252CE42', 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}, 'devices': ['cf70b0d28c3242da90e0d16da680cffa']}}, 'message': 'SUCCESS'}
+[15-2025-02 17:10:] --------------   endSoftware...  --------------    

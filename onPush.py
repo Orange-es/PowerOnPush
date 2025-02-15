@@ -54,9 +54,12 @@ def capture_image_from_camera():
 
     # 使用uuid
     unique_id = uuid.uuid4()
+    
+    # 获取当前时间，并格式化为字符串
+    current_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
 
     # 定义保存图像的路径和文件名
-    image_path = str(unique_id)+".jpg"
+    image_path = current_time+"--"+str(unique_id)+".jpg"
     localImage_Path = 'G:\\Pycharm\\PythonProject\\compareData\\PowerOnPush\\' + image_path
     
 
