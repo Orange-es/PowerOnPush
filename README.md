@@ -39,13 +39,13 @@ bash
 2. 触发器
 3. 操作，写明启动bat程序
 
-![1748315755301](README.assets/1748315755301.png)
+![1748315755301](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315755301.png)
 
 
 
-![1748315847752](README.assets/1748315847752.png)
+![1748315847752](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315847752.png)
 
-![1748315896366](README.assets/1748315896366.png)
+![1748315896366](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315896366.png)
 
 ## 联系方式
 
