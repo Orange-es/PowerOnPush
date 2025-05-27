@@ -22,16 +22,6 @@
 ### 安装步骤
 
 1. 克隆仓库到本地：
-   ```bash
-   git clone https://github.com/用户名/仓库名.git
-进入项目目录：
-bash
-cd 仓库名
-安装依赖（如有）：
-bash
-   ```
-
-
 
 2.程序依赖安装完毕之后，需要设置开机自动启动;
 
@@ -39,13 +29,13 @@ bash
 2. 触发器
 3. 操作，写明启动bat程序
 
-![1748315755301](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315755301.png)
+![1](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315755301.png)
 
 
 
-![1748315847752](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315847752.png)
+![2](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315847752.png)
 
-![1748315896366](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315896366.png)
+![3](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/1748315896366.png)
 
 ## 联系方式
 
