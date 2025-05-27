@@ -15,7 +15,7 @@
 
 - **核心功能 2**：推送  
 
-  [ Server酱多语言调用实例]:(https://github.com/easychen/serverchan-demo)
+  [ Server酱多语言调用实例]:(https://github.com/easychen/serverchan-demo)	"“Server”"
 
 ## 安装与使用
 
@@ -30,6 +30,10 @@ cd 仓库名
 安装依赖（如有）：
 bash
    ```
+
+
+
+
 
 
 
