@@ -13,9 +13,9 @@
 
 - **核心功能 1**：开机、解锁屏幕自动拍照；
 
-- **核心功能 2**：推送  
+- **核心功能 2**：推送  [ Server酱多语言调用实例](https://github.com/easychen/serverchan-demo)
 
-  [ Server酱多语言调用实例]:(https://github.com/easychen/serverchan-demo)	"“Server”"
+  
 
 ## 安装与使用
 
