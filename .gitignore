@@ -30,5 +30,5 @@ $RECYCLE.BIN/
 *.lnk
 *.txt
 logfile.txt
-
+!README.assets/**/
 # End of https://www.toptal.com/developers/gitignore/api/windows
