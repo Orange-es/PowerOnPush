@@ -47,6 +47,14 @@
 
 ![example02](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/example02.png)
 
+
+
+![pushImg01](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/pushImg01.jpg)
+
+
+
+![pushImg02](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/pushImg02.jpg)
+
 ## 联系方式
 
 - **GitHub Issues**：[提交问题](https://github.com/Orange-es/PowerOnPush/issues)）
