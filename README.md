@@ -41,19 +41,19 @@
 
 ## 示例图片
 
-![example01](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/example01.jpg = 300*200)
+![example01](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/example01.jpg)
 
 
 
-![example02](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/example02.png = 300*200)
+![example02](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/example02.png)
 
 
 
-![pushImg01](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/pushImg01.jpg = 300*200)
+![pushImg01](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/pushImg01.jpg)
 
 
 
-![pushImg02](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/pushImg02.jpg = 300*200)
+![pushImg02](https://github.com/Orange-es/PowerOnPush/blob/main/README.assets/pushImg02.jpg)
 
 ## 联系方式
 
